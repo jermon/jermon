@@ -1,4 +1,5 @@
-![Codewars](https://www.codewars.com/users/jermon/badges/large)
+[![Codewars](https://www.codewars.com/users/jermon/badges/large)](https://www.codewars.com/users/jermon)
+
 <!--
 **jermon/jermon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
